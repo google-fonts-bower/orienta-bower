@@ -1,0 +1,17 @@
+{
+    "name": "orienta-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/orienta-bower.git"
+    },
+    "description": "Orienta font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
